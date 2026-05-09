@@ -5,12 +5,15 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 Designed as a portfolio project, it highlights best practices in data warehousing and data analytics.
 
 **Project Overview**
+
 This project is divided into two key parts:
 Data Warehouse Development
 Data Analytics (BI & Reporting)
 
 **Part 1: Building the Data Warehouse**
+
 **Objective**
+
 Develop a modern data warehouse using SQL Server to consolidate data from multiple sources, enabling efficient analytical reporting and informed decision-making.
 Specifications
 **Data Sources**
@@ -42,8 +45,11 @@ Business stakeholders
 Analytics teams
 
 **Part 2: BI – Analytics & Reporting**
+
 **Objective**
+
 Develop SQL-based analytics to extract meaningful insights and support business decision-making.
+
 **Key Focus Areas**
 **Customer Behavior**
 Analyze customer patterns and trends

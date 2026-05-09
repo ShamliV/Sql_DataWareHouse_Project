@@ -70,6 +70,9 @@ Make data-driven strategic decisions
 **Tech Stack**
 
 Database: SQL Server
+
 Data Processing: SQL (T-SQL)
+
 Data Sources: CSV files (ERP & CRM)
+
 Visualization (optional): Power BI / Tableau

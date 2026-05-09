@@ -12,6 +12,7 @@ Data Analytics (BI & Reporting)
 **Part 1: Building the Data Warehouse**
 
 **Objective**
+
 Develop a modern data warehouse using SQL Server to consolidate data from multiple sources, enabling efficient analytical reporting and informed decision-making.
 Specifications
 **Data Sources**:-
@@ -45,11 +46,12 @@ Analytics teams
 **Part 2: BI – Analytics & Reporting**
 
 **Objective**
+
 Develop SQL-based analytics to extract meaningful insights and support business decision-making.
 
 **Key Focus Areas**
-**Customer Behavior**:-
 
+**Customer Behavior**:-
 Analyze customer patterns and trends
 
 **Product Performance**:-

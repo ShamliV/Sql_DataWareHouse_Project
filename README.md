@@ -1,3 +1,8 @@
+<img width="634" height="359" alt="image" src="https://github.com/user-attachments/assets/b1e38f23-2dd6-450b-863f-883cfffd58c8" />
+<img width="637" height="356" alt="image" src="https://github.com/user-attachments/assets/924bf8c2-98af-4424-a9af-ce9afab06a46" />
+<img width="239" height="371" alt="image" src="https://github.com/user-attachments/assets/6761e40d-32fa-4a87-8dc1-bc028576e8ed" />
+
+
 **Data Warehouse & Analytics Project**
 **Introduction**
 This project showcases an end-to-end data analytics solution, starting from building a structured data warehouse to performing exploratory data analysis (EDA), applying advanced analytics techniques, and finally creating interactive Power BI dashboards for business insights.
@@ -38,40 +43,31 @@ Window Functions → Ranking, lag, moving comparisons
 
 **4.Power BI Dashboard**
 
-Built interactive dashboards for:
-
+**Built interactive dashboards for:**
 Customer Behavior Analysis
 Product Performance & Profitability
 
 
-Key metrics visualized:
-
+**Key metrics visualized:**
 Total Sales: 29M
 Total Orders: 60K
 Customer Count: 18K
 Monthly Revenue Trends
 
-
-Included:
-
+**Included:**
 Category analysis
 Customer value insights
 Product segmentation (High / Mid / Low performers)
 
-
-
-
-🔹 Business Value
-This project helps stakeholders:
+**Business Value**
+**This project helps stakeholders:**
 
 Understand customer behavior and spending patterns
 Identify high-performing and low-performing products
 Track sales trends over time
 Make data-driven business decisions
 
-
-🔹 Tech Stack
-
+**Tech Stack**
 Database: SQL Server
 Query Language: T-SQL
 Data Sources: CSV (ERP & CRM systems)

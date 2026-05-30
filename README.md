@@ -78,14 +78,13 @@ Make data-driven business decisions
 **Tech Stack**
 
 Database: 
-
 SQL Server
+
 Query Language:
-
 T-SQL
+
 Data Sources: 
-
 CSV (ERP & CRM systems)
-Visualization: 
 
+Visualization: 
 Power BI

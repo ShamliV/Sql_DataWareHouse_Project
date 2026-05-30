@@ -79,9 +79,12 @@ Make data-driven business decisions
 
 Database: 
 SQL Server
+
 Query Language:
 T-SQL
+
 Data Sources: 
 CSV (ERP & CRM systems)
+
 Visualization: 
 Power BI

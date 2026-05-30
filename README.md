@@ -68,8 +68,7 @@ Product segmentation (High / Mid / Low performers)
 
 **Business Value**
 
-**This project helps stakeholders:**
-
+This project helps stakeholders:
 Understand customer behavior and spending patterns
 Identify high-performing and low-performing products
 Track sales trends over time

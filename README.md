@@ -1,78 +1,78 @@
-**Data Warehouse and Analytics Project**
+**Data Warehouse & Analytics Project**
+**Introduction**
+This project showcases an end-to-end data analytics solution, starting from building a structured data warehouse to performing exploratory data analysis (EDA), applying advanced analytics techniques, and finally creating interactive Power BI dashboards for business insights.
+The goal of this project is to demonstrate how raw data from multiple sources can be transformed into meaningful, actionable insights that support data-driven decision-making.
 
-Welcome to the Data Warehouse and Analytics Project repository
-This project demonstrates a comprehensive data warehousing and analytics solution — from building a structured data warehouse to generating actionable business insights.
-Designed as a portfolio project, it highlights best practices in data warehousing and data analytics.
+**What This Project Covers**
+This project is divided into three main stages:
 
-**Project Overview**
-This project is divided into two key parts:
-Data Warehouse Development
-Data Analytics (BI & Reporting)
+**1.Data Warehouse Development**
 
-**Part 1: Building the Data Warehouse**
+Built a modern data warehouse using SQL Server
+Integrated data from ERP and CRM systems (CSV files)
+Performed data cleaning, transformation, and validation
+Designed a star schema model for efficient analytics
+Created structured tables for fact and dimension data
 
-**Objective**
+**2.Exploratory Data Analysis (EDA)**
 
-Develop a modern data warehouse using SQL Server to consolidate data from multiple sources, enabling efficient analytical reporting and informed decision-making.
-Specifications
-**Data Sources**:-
-Import data from two source systems:
-ERP system
-CRM system
-Data is provided in CSV format
+Explored customers, products, and sales data
+Analyzed:
 
-**Data Quality**:-
-Perform data cleaning and transformation
-Resolve inconsistencies and missing values before analysis
+Dimensions (country, gender, category, etc.)
+Measures (sales, quantity, orders)
+Date ranges and time coverage
+Identified patterns and data distributions
 
-**Integration**:-
-Combine data from both sources into a single unified model
-Design optimized schema for analytical queries
 
-**Scope**:-
-Focus on latest snapshot data only
-Historical tracking is not required
+**3.Advanced Analytics (SQL)**
+Applied real-world analytical techniques such as:
+Change Over Time Analysis → Identify trends and growth patterns
+Cumulative Analysis → Running totals and revenue progression
+Performance Analysis → Compare products using benchmarks
+Part-to-Whole Analysis → Contribution of categories to total sales
+Data Segmentation → Group customers and products into meaningful segments
+Customer Segmentation → VIP, Regular, New classification
+Window Functions → Ranking, lag, moving comparisons
 
-**Documentation**:-
-Provide clear and structured documentation of:
-Data model
-Relationships
-Business logic
 
-Ensure accessibility for both:
-Business stakeholders
-Analytics teams
+**4.Power BI Dashboard**
 
-**Part 2: BI – Analytics & Reporting**
+Built interactive dashboards for:
 
-**Objective**
+Customer Behavior Analysis
+Product Performance & Profitability
 
-Develop SQL-based analytics to extract meaningful insights and support business decision-making.
 
-**Key Focus Areas**
+Key metrics visualized:
 
-**Customer Behavior**:-
-Analyze customer patterns and trends
+Total Sales: 29M
+Total Orders: 60K
+Customer Count: 18K
+Monthly Revenue Trends
 
-**Product Performance**:-
-Evaluate product-level metrics and success indicators
 
-**Sales Trends**:-
-Identify revenue patterns and growth trends
+Included:
 
-**Business Value**:-
-The analytics generated from this project enable stakeholders to:
-Understand customer dynamics
-Identify high-performing products
-Monitor business growth trends
-Make data-driven strategic decisions
+Category analysis
+Customer value insights
+Product segmentation (High / Mid / Low performers)
 
-**Tech Stack**
+
+
+
+🔹 Business Value
+This project helps stakeholders:
+
+Understand customer behavior and spending patterns
+Identify high-performing and low-performing products
+Track sales trends over time
+Make data-driven business decisions
+
+
+🔹 Tech Stack
 
 Database: SQL Server
-
-Data Processing: SQL (T-SQL)
-
-Data Sources: CSV files (ERP & CRM)
-
-Visualization (optional): Power BI / Tableau
+Query Language: T-SQL
+Data Sources: CSV (ERP & CRM systems)
+Visualization: Power BI

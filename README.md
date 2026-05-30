@@ -3,7 +3,7 @@
 
 
 
-**Data Warehouse & Analytics Project**
+**Sales & Customer Insights: Data Warehouse and Analytics Solution**
 
 **Introduction**
 
